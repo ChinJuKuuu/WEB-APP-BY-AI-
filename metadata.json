@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Snake Arcade",
+  "description": "A responsive retro single-page cyber snake arcade web application with customizable game modes, sound synthesis, on-screen controls, score tracking, and embedded how-to-play instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
